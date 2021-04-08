@@ -1,0 +1,9 @@
+*.d
+*.o
+*.so
+.gdb_history
+
+docs/html/
+vendor/
+
+.vscode/
